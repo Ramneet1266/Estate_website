@@ -1,0 +1,10 @@
+{
+    "prettier.endOfLine": "auto",
+    "prettier.useEditorConfig": true,
+    "prettier.printWidth": 70,
+    "prettier.proseWrap": "always",
+    "prettier.semi": false,
+    "prettier.tabWidth": 2,
+    "prettier.useTabs": true,
+    "editor.comments.ignoreEmptyLines": true
+}
